@@ -1,0 +1,10 @@
+[TRACE] 2021-09-22 13:37:39.864 [main] Log4jDemo - This is trace messages
+[INFO ] 2021-09-22 13:37:39.866 [main] Log4jDemo - This is information message
+[ERROR] 2021-09-22 13:37:39.866 [main] Log4jDemo - This is an error message
+[WARN ] 2021-09-22 13:37:39.866 [main] Log4jDemo - This is a warning
+[FATAL] 2021-09-22 13:37:39.866 [main] Log4jDemo - This is fatal message
+[TRACE] 2021-09-22 13:38:16.505 [main] Log4jDemo - This is trace messages
+[INFO ] 2021-09-22 13:38:16.507 [main] Log4jDemo - This is information message
+[ERROR] 2021-09-22 13:38:16.507 [main] Log4jDemo - This is an error message
+[WARN ] 2021-09-22 13:38:16.507 [main] Log4jDemo - This is a warning
+[FATAL] 2021-09-22 13:38:16.508 [main] Log4jDemo - This is fatal message
